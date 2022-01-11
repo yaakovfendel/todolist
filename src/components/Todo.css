@@ -1,0 +1,7 @@
+.text{
+        display: flex;
+        align-items: center;
+    }
+    .emoji{  
+        font-size: 50px;
+}
